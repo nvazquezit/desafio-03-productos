@@ -21,8 +21,11 @@ h2 {
   font-style: italic;
   font-size: 30px;
   color: rgb(237, 200, 198);
+  margin-bottom: 10px;
 }
 
 .aspiradora {
-  
+  border: 6px solid;
+  color: rgb(237, 200, 198);
+  margin: 10px 10px 10px 40px;
 }
