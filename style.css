@@ -1,1 +1,24 @@
+h1 {
+  font-family:'Impact', 'Charcoal', 'sans-serif';
+  text-align: center;
+  font-size: 80px;
+  background-color: white;
+  color: rgb(80, 111, 138);
+  }
 
+body {
+  background-color: rgb(40, 49, 49);
+}
+
+.texto-1 {
+  color: white;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
+  text-align: justify;
+}
+
+h2 {
+  font-family:'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
+  font-style: italic;
+  font-size: 30px;
+  color: rgb(237, 200, 198);
+}
