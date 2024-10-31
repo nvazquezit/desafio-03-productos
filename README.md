@@ -4,7 +4,7 @@
 
 ## NETLIFY LINK
 ```sh
-kaleidoscopic-kelpie-823d27
+https://fastidious-concha-34be3f.netlify.app
 ``` 
 
 ## GITHUB LINK
