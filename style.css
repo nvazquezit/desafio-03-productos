@@ -57,3 +57,32 @@ body {
   color: rgb(177, 172, 172);
   margin: 10px 10px 10px 40px;
 }
+
+.h2-4 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
+  font-style: italic;
+  font-size: 30px;
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.img-home {
+  border: 6px solid;
+  color: grey;
+  margin: 10px 10px 10px 40px;
+  width: 500px;
+}
+
+.h2-5 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
+  font-style: italic;
+  font-size: 30px;
+  color: rgb(187, 187, 175);
+  margin-bottom: 10px;
+}
+
+.img-tele {
+  border: 6px solid;
+  color: rgb(187, 187, 175);
+  margin: 10px 10px 10px 40px;
+}
